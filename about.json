@@ -1,5 +1,11 @@
 {
 	"full-name": "Florian Brinkmann",
-	"about-text": "Ich bin Webentwickler mit einem Fokus auf WordPress-Themes und schreibe (unter anderem) Artikel für t3n.de.\n  ",
-	"social-media-accounts": []
+	"about-text": "Ich bin Webentwickler mit einem Fokus auf WordPress-Themes und schreibe (unter anderem) Artikel für <a data-mce-href=\"http://t3n.de\" href=\"http://t3n.de\" data-mce-selected=\"1\">t3n.de</a>.",
+	"social-media-accounts": [],
+	"social-media-account": [
+		{
+			"social-media-account-name": "Twitter",
+			"social-media-account-url": "twitter.com/flobrinkmann"
+		}
+	]
 }
